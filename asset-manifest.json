@@ -2,8 +2,8 @@
   "files": {
     "static/js/0.82fbe77d.chunk.js": "https://mango.cheeseswap.app/static/js/0.82fbe77d.chunk.js",
     "static/js/0.82fbe77d.chunk.js.map": "https://mango.cheeseswap.app/static/js/0.82fbe77d.chunk.js.map",
-    "main.js": "https://mango.cheeseswap.app/static/js/main.67885def.chunk.js",
-    "main.js.map": "https://mango.cheeseswap.app/static/js/main.67885def.chunk.js.map",
+    "main.js": "https://mango.cheeseswap.app/static/js/main.51856a43.chunk.js",
+    "main.js.map": "https://mango.cheeseswap.app/static/js/main.51856a43.chunk.js.map",
     "runtime-main.js": "https://mango.cheeseswap.app/static/js/runtime-main.52cb13e8.js",
     "runtime-main.js.map": "https://mango.cheeseswap.app/static/js/runtime-main.52cb13e8.js.map",
     "static/js/3.c3c64142.chunk.js": "https://mango.cheeseswap.app/static/js/3.c3c64142.chunk.js",
@@ -37,6 +37,6 @@
   "entrypoints": [
     "static/js/runtime-main.52cb13e8.js",
     "static/js/3.c3c64142.chunk.js",
-    "static/js/main.67885def.chunk.js"
+    "static/js/main.51856a43.chunk.js"
   ]
 }
